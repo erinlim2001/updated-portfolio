@@ -6,7 +6,7 @@ The purpose of this project was to create a portfolio of work to showcase my ski
 
 ## Links
 - [Deployed Website](https://erinlim2001.github.io/updated-portfolio/)
-- [Code Repository](https://erinlim2001.github.io/updated-portfolio/)
+- [Code Repository](https://github.com/erinlim2001/updated-portfolio)
 
 ## Installation
 
