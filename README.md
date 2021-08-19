@@ -5,8 +5,8 @@
 The purpose of this project was to create a portfolio of work to showcase my skills and talents to employers looking to fill a part-time or full-time position. Effective portfolios can highlight strong work and thought processes. 
 
 ## Links
-- [Deployed Website](https://erinlim2001.github.io/Erin-Lim-Portfolio/)
-- [Code Repository](https://github.com/erinlim2001/Erin-Lim-Portfolio)
+- [Deployed Website](https://erinlim2001.github.io/updated-portfolio/)
+- [Code Repository](https://erinlim2001.github.io/updated-portfolio/)
 
 ## Installation
 
